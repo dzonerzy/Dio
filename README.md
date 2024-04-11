@@ -5,6 +5,6 @@ When everything around you is fucked up... scream it out loud
 
 - Fork this repo
 - Scream it out loud (Forko Dio!)
-- let it go
+- Let it go
 
  
