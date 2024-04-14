@@ -13,6 +13,6 @@ When everything around you is fucked up... scream it out loud
 Feel free to fork Dio and add below the reason why you had to fork it!
 
 ## Leave a mark below
-Well, this is Mark...
+This is cyberaz0r's Mark
 
-![mark](https://github.com/cyberaz0r/Dio/assets/35109470/c5826b0e-420b-48e7-8d7a-06c706f7518b)
+![mark](https://github.com/cyberaz0r/Dio/assets/35109470/b279b45e-eabc-457f-9127-328a85dfdc78)
